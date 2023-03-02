@@ -43,3 +43,11 @@
 ### *Удаление веток*
 
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+## Работа с картинками
+
+Для добавления картинок из Инета необходимо ввести команду "![Имя картинки](Ссылка на картинку или URL)"
+
+![Картинка из Инета](https://avatars.mds.yandex.net/i?id=c1dc9afa10b800a207848eaf1d2a7bf5b92c3f68-7469517-images-thumbs&n=13)
+
+[Вставка ссылки из Инета](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)`
